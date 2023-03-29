@@ -1,6 +1,4 @@
 # hw-02
- static void Main(string[] args)
-        {
             int Value;
             Console.WriteLine("Please enter the Maximum or Minimum Value");
             try
@@ -16,3 +14,5 @@
             }
 
             // Я старался как мог, не cудите строго я еще нуб)))
+ 
+        
